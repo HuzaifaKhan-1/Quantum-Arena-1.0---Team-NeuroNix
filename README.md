@@ -101,8 +101,7 @@ This project is designed to **predict, simulate, monitor, and assist evacuation*
 ---
 
 ## 📽️ Demo
-🔗 [Live Demo Link](https://huzaifakhan-1.github.io/NeuroNix---International-Innovation-Hackathon-2.0-Manipur-University-/index.html)  
-🔗 [Live Video Link] ()
+🔗 [Live Video Link](https://drive.google.com/file/d/1DLNkkMClP6y6Jpv4cx4_qNEsMJ7Wx1uj/view?usp=drive_link)  
 
 ---
 ---
