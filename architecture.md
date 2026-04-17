@@ -18,6 +18,11 @@ NeuroNix is a multi-layered Intelligence Ecosystem designed for **Smart City Dis
 
 ---
 
+![AI-Based Forest Fire Prediction Pipeline](<img width="711" height="317" alt="Screenshot 2026-04-18 025939" src="https://github.com/user-attachments/assets/37100545-0bba-4850-ab93-0c1912ffbedb" />
+)
+
+This diagram presents a complete pipeline for forest fire prediction using multi-source data such as satellite imagery, weather, terrain, and human activity. The data is preprocessed and transformed into meaningful features like NDVI, slope, wind speed, and soil moisture. A hybrid ConvLSTM + U-Net model is then used to predict fire risk and simulate fire spread over time. The final output is GIS-ready and supports real-time alerts and integration with disaster management systems.
+
 ## 🧠 AI Core: Hybrid ConvLSTM-UNet
 The "Brain" of NeuroNix uses a **Hybrid Neural Architecture** to solve the complex problem of fire behavior.
 
