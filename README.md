@@ -31,6 +31,8 @@ This project is designed to **predict, simulate, monitor, and assist evacuation*
 - Helps authorities prepare for “what-if” conditions.
   
 <img width="1528" height="870" alt="image" src="https://github.com/user-attachments/assets/0d72897b-5a8c-4c66-9c3f-b680b821500b" />
+
+### Safe Evacuation using GPS from CURRENT LOCATION
 <img width="1381" height="896" alt="image" src="https://github.com/user-attachments/assets/c2b8b30d-6dd9-4fc7-8389-2b205dff8616" />
 
 
