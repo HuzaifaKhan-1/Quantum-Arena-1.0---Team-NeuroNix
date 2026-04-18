@@ -38,7 +38,8 @@ This project is designed to **predict, simulate, monitor, and assist evacuation*
 - Optimal deployment of firefighting teams & equipment.  
 - Smart evacuation planning to minimize casualties.
   <img width="1537" height="807" alt="image" src="https://github.com/user-attachments/assets/122bd8d2-e5fe-44cd-936a-0f4a15d8fede" />
-  <img width="1590" height="853" alt="image" src="https://github.com/user-attachments/assets/7fc91641-8174-4224-bf9a-2117ce04952e" />
+  <img width="1548" height="844" alt="image" src="https://github.com/user-attachments/assets/3bb99c36-e229-40fd-9c40-724f50f78d8b" />
+
 
 
 
